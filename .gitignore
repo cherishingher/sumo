@@ -1,0 +1,11 @@
+__pycache__/
+checkpoints/*
+*.egg-info/
+logs/*
+score
+Untitled.ipynb
+car_model_bckp.py
+runs/*
+*.npy
+model_weights/*
+dataplot/*
